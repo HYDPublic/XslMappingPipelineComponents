@@ -1,0 +1,88 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BizTalk.ESB.PipelineComponents", "BizTalk.ESB.PipelineComponents\BizTalk.ESB.PipelineComponents.csproj", "{EAB39219-B11C-4048-ABCC-299CC6833DC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.csproj", "{A01AAD40-CA31-4EF8-BBDC-112B547CE6FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BizTalk.ESB.Components.Mapping", "BizTalk.ESB.Components.Mapping\BizTalk.ESB.Components.Mapping.csproj", "{AA9BD8C1-4C4D-46C9-9471-E4127A97C300}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BizTalk.ESB.Pipelines", "BizTalk.ESB.Pipelines\BizTalk.ESB.Pipelines.btproj", "{6F1EDEEE-874E-49AC-A800-4369DA080D33}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://172.20.70.35:8080/tfs/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = BizTalk.ESB.PipelineComponents\\BizTalk.ESB.PipelineComponents.csproj
+		SccProjectName1 = BizTalk.ESB.PipelineComponents
+		SccLocalPath1 = BizTalk.ESB.PipelineComponents
+		SccProjectUniqueName2 = ConsoleApplication1\\ConsoleApplication1.csproj
+		SccProjectName2 = ConsoleApplication1
+		SccLocalPath2 = ConsoleApplication1
+		SccProjectUniqueName3 = BizTalk.ESB.Components.Mapping\\BizTalk.ESB.Components.Mapping.csproj
+		SccProjectName3 = BizTalk.ESB.Components.Mapping
+		SccLocalPath3 = BizTalk.ESB.Components.Mapping
+		SccProjectUniqueName4 = BizTalk.ESB.Pipelines\\BizTalk.ESB.Pipelines.btproj
+		SccProjectName4 = BizTalk.ESB.Pipelines
+		SccLocalPath4 = BizTalk.ESB.Pipelines
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAB39219-B11C-4048-ABCC-299CC6833DC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAB39219-B11C-4048-ABCC-299CC6833DC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAB39219-B11C-4048-ABCC-299CC6833DC4}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{EAB39219-B11C-4048-ABCC-299CC6833DC4}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{EAB39219-B11C-4048-ABCC-299CC6833DC4}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{EAB39219-B11C-4048-ABCC-299CC6833DC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAB39219-B11C-4048-ABCC-299CC6833DC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAB39219-B11C-4048-ABCC-299CC6833DC4}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{EAB39219-B11C-4048-ABCC-299CC6833DC4}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{EAB39219-B11C-4048-ABCC-299CC6833DC4}.Release|x86.ActiveCfg = Release|Any CPU
+		{A01AAD40-CA31-4EF8-BBDC-112B547CE6FA}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{A01AAD40-CA31-4EF8-BBDC-112B547CE6FA}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{A01AAD40-CA31-4EF8-BBDC-112B547CE6FA}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{A01AAD40-CA31-4EF8-BBDC-112B547CE6FA}.Debug|x86.ActiveCfg = Debug|x86
+		{A01AAD40-CA31-4EF8-BBDC-112B547CE6FA}.Debug|x86.Build.0 = Debug|x86
+		{A01AAD40-CA31-4EF8-BBDC-112B547CE6FA}.Release|Any CPU.ActiveCfg = Release|x86
+		{A01AAD40-CA31-4EF8-BBDC-112B547CE6FA}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{A01AAD40-CA31-4EF8-BBDC-112B547CE6FA}.Release|Mixed Platforms.Build.0 = Release|x86
+		{A01AAD40-CA31-4EF8-BBDC-112B547CE6FA}.Release|x86.ActiveCfg = Release|x86
+		{A01AAD40-CA31-4EF8-BBDC-112B547CE6FA}.Release|x86.Build.0 = Release|x86
+		{AA9BD8C1-4C4D-46C9-9471-E4127A97C300}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA9BD8C1-4C4D-46C9-9471-E4127A97C300}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA9BD8C1-4C4D-46C9-9471-E4127A97C300}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{AA9BD8C1-4C4D-46C9-9471-E4127A97C300}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{AA9BD8C1-4C4D-46C9-9471-E4127A97C300}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{AA9BD8C1-4C4D-46C9-9471-E4127A97C300}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA9BD8C1-4C4D-46C9-9471-E4127A97C300}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA9BD8C1-4C4D-46C9-9471-E4127A97C300}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{AA9BD8C1-4C4D-46C9-9471-E4127A97C300}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{AA9BD8C1-4C4D-46C9-9471-E4127A97C300}.Release|x86.ActiveCfg = Release|Any CPU
+		{6F1EDEEE-874E-49AC-A800-4369DA080D33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F1EDEEE-874E-49AC-A800-4369DA080D33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F1EDEEE-874E-49AC-A800-4369DA080D33}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{6F1EDEEE-874E-49AC-A800-4369DA080D33}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{6F1EDEEE-874E-49AC-A800-4369DA080D33}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{6F1EDEEE-874E-49AC-A800-4369DA080D33}.Debug|Mixed Platforms.Deploy.0 = Debug|Any CPU
+		{6F1EDEEE-874E-49AC-A800-4369DA080D33}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{6F1EDEEE-874E-49AC-A800-4369DA080D33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F1EDEEE-874E-49AC-A800-4369DA080D33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F1EDEEE-874E-49AC-A800-4369DA080D33}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{6F1EDEEE-874E-49AC-A800-4369DA080D33}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{6F1EDEEE-874E-49AC-A800-4369DA080D33}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{6F1EDEEE-874E-49AC-A800-4369DA080D33}.Release|Mixed Platforms.Deploy.0 = Release|Any CPU
+		{6F1EDEEE-874E-49AC-A800-4369DA080D33}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

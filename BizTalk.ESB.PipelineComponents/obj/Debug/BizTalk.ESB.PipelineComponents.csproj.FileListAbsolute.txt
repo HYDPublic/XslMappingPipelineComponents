@@ -1,0 +1,9 @@
+D:\SourceCode\BizTalk.ESB.Solution\BizTalk.ESB.PipelineComponents\bin\Debug\XslMappingPipelineComponent.dll
+D:\SourceCode\BizTalk.ESB.Solution\BizTalk.ESB.PipelineComponents\bin\Debug\XslMappingPipelineComponent.pdb
+D:\SourceCode\BizTalk.ESB.Solution\BizTalk.ESB.PipelineComponents\bin\Debug\BizTalk.ESB.Components.Mapping.dll
+D:\SourceCode\BizTalk.ESB.Solution\BizTalk.ESB.PipelineComponents\bin\Debug\BizTalk.ESB.Components.Mapping.pdb
+D:\SourceCode\BizTalk.ESB.Solution\BizTalk.ESB.PipelineComponents\obj\Debug\BizTalk.ESB.PipelineComponents.csprojResolveAssemblyReference.cache
+D:\SourceCode\BizTalk.ESB.Solution\BizTalk.ESB.PipelineComponents\obj\Debug\BizTalk.ESB.PipelineComponents.XslMappingPipelineComponent.resources
+D:\SourceCode\BizTalk.ESB.Solution\BizTalk.ESB.PipelineComponents\obj\Debug\BizTalk.ESB.PipelineComponents.csproj.GenerateResource.Cache
+D:\SourceCode\BizTalk.ESB.Solution\BizTalk.ESB.PipelineComponents\obj\Debug\XslMappingPipelineComponent.dll
+D:\SourceCode\BizTalk.ESB.Solution\BizTalk.ESB.PipelineComponents\obj\Debug\XslMappingPipelineComponent.pdb

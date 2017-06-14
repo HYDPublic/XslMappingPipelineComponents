@@ -1,0 +1,5 @@
+D:\SourceCode\BizTalk.ESB.Solution\BizTalk.ESB.Components.Mapping\bin\Debug\BizTalk.ESB.Components.Mapping.dll
+D:\SourceCode\BizTalk.ESB.Solution\BizTalk.ESB.Components.Mapping\bin\Debug\BizTalk.ESB.Components.Mapping.pdb
+D:\SourceCode\BizTalk.ESB.Solution\BizTalk.ESB.Components.Mapping\obj\Debug\BizTalk.ESB.Components.Mapping.csprojResolveAssemblyReference.cache
+D:\SourceCode\BizTalk.ESB.Solution\BizTalk.ESB.Components.Mapping\obj\Debug\BizTalk.ESB.Components.Mapping.dll
+D:\SourceCode\BizTalk.ESB.Solution\BizTalk.ESB.Components.Mapping\obj\Debug\BizTalk.ESB.Components.Mapping.pdb

@@ -1,0 +1,5 @@
+D:\SourceCode\BizTalk.ESB.Solution\BizTalk.ESB.Pipelines\bin\Debug\BizTalk.ESB.Pipelines.dll
+D:\SourceCode\BizTalk.ESB.Solution\BizTalk.ESB.Pipelines\bin\Debug\BizTalk.ESB.Pipelines.pdb
+D:\SourceCode\BizTalk.ESB.Solution\BizTalk.ESB.Pipelines\bin\Debug\XslMappingPipelineComponent.dll
+D:\SourceCode\BizTalk.ESB.Solution\BizTalk.ESB.Pipelines\obj\Debug\BizTalk.ESB.Pipelines.dll
+D:\SourceCode\BizTalk.ESB.Solution\BizTalk.ESB.Pipelines\obj\Debug\BizTalk.ESB.Pipelines.pdb
